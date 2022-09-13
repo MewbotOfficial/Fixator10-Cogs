@@ -1,4 +1,4 @@
-Pimport string
+import string
 
 import discord
 
