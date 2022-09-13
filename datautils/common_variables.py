@@ -1,4 +1,4 @@
-import string
+Pimport string
 
 import discord
 
@@ -78,7 +78,7 @@ CHANNEL_TYPE_EMOJIS = {
     discord.ChannelType.voice: "\N{SPEAKER}",
     discord.ChannelType.category: "\N{BOOKMARK TABS}",
     discord.ChannelType.news: "\N{NEWSPAPER}",
-    discord.ChannelType.store: "\N{SHOPPING TROLLEY}",
+   # discord.ChannelType.store: "\N{SHOPPING TROLLEY}",
     discord.ChannelType.private: "\N{BUST IN SILHOUETTE}",
     discord.ChannelType.group: "\N{BUSTS IN SILHOUETTE}",
     discord.ChannelType.stage_voice: "\N{SATELLITE ANTENNA}",
